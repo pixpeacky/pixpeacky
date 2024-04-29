@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pixpeacky
-- 👀 I’m interested in pixel art and 3d design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alfontran_
+- 👀 I’m interested in Graphic Design, photography & illustration
+- 🌱 I’m currently learning many style of graphic design
+- 💞️ I’m looking to collaborate on social media and various other media
+- 📫 How to reach me on instagram @alfontran_
 
 <!---
 pixpeacky/pixpeacky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
